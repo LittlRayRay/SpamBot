@@ -7,7 +7,8 @@ To run the bot, download the .zip file, unzip it and run the _spambot.exe_ file.
 
 # NOTE
 
-You need all the contents of the folder to run the file
+You need all the contents of the folder to run the file.
+_The spambot.exe only works for Windows!_
 
 # Credits
 
