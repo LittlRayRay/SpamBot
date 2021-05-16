@@ -3,11 +3,10 @@ A bot to spam your friends with. Works in all major applications such as Whatsap
 
 # _How to run_
 
-To run the bot, download the .zip file, unzip it and run the _spambot.exe_ file.
+To run the bot, download the latest release from the releases page (https://github.com/LittlRayRay/SpamBot/releases), and run the single .exe file. 
 
 # NOTE
 
-You need all the contents of the folder to run the file.
 _The spambot.exe only works for Windows!_
 
 # Credits
