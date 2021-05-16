@@ -12,4 +12,6 @@ Report bugs and improvements here: https://discord.gg/NvMtYuvVdz
 
 # Credits
 
-Made by @LittlRayRay using Python and tkinter. 
+Made by @LittlRayRay using Python and tkinter.
+
+# Thanks for using
